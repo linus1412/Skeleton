@@ -1,0 +1,15 @@
+
+spring:
+    neo4j:
+        authentication:
+            password: test
+            username: neo4j
+
+management:
+    endpoint:
+        health:
+            show-details: always
+    endpoints:
+        web:
+            exposure:
+                include: "*"
