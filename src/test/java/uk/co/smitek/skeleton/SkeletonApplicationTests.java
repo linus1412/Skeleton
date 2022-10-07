@@ -1,10 +1,10 @@
-package uk.co.smitek.neosearch;
+package uk.co.smitek.skeleton;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NeoSearchApplicationTests {
+class SkeletonApplicationTests {
 
     @Test
     void contextLoads() {
